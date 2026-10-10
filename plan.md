@@ -68,12 +68,14 @@ If you're sore, do the warm-up twice (about 10 minutes).
 |---|---|---|---|
 | 1 | Deadlift | 5 | 35 lb |
 | 2 | Goblet squat | 5 | 15 lb (try 20 lb) |
-| 3 | Bent-over row | 5 per side | 20 lb |
-| 4 | Overhead press | 5 per side | 20 lb |
+| 3 | Halo | 5 each direction | 20 lb |
+| 4 | Bent-over row | 5 per side | 20 lb |
+| 5 | Overhead press | 5 per side | 20 lb |
 
 **Cues**
 - **Deadlift:** bell between your feet. Hinge back with a flat back, then drive your hips forward to stand.
 - **Goblet squat:** hold the bell at your chest by the horns. Sit between your heels with your chest up.
+- **Halo:** straight from the squat, flip the bell upside down by the horns and circle it slowly around your head. Squeeze your glutes and keep your ribs down so your lower back doesn't arch.
 - **Row:** hinge forward and brace your free hand on your thigh. Pull the bell toward your hip.
 - **Press:** squeeze your glutes and press straight up. Don't lean back.
 

@@ -20,7 +20,7 @@ for (let d = 1; d <= 31; d++) {
   const day = d - 5;
   const p = plan[d];
   let cls = 'cell', body = '';
-  const TODAY = 8;
+  const TODAY = 10;
   if (d < TODAY && !plan[d]) cls += ' past';
   if (d === TODAY) cls += ' today';
   if (day >= 1) {
@@ -64,7 +64,7 @@ h1{margin:0;font-size:30px} .sub{color:#57606a;margin:4px 0 18px;font-size:15px}
 <div class="sub">Day 1 = Tuesday, Oct 6 · 3 workouts per week · 10,000 steps minimum every day</div>
 <div class="grid">${['Sun','Mon','Tue','Wed','Thu','Fri','Sat'].map(d=>`<div class="hd">${d}</div>`).join('')}${cells.join('')}</div>
 <div class="legend">
-<div><b style="color:#9a3412">Kettlebell A (Tuesdays)</b>5-min warm-up. Each round: 5 deadlifts → 5 goblet squats → 5 rows/side → 5 overhead presses/side. Rest 90–120s. Then knee push-ups 3 sets and lateral raises.</div>
+<div><b style="color:#9a3412">Kettlebell A (Tuesdays)</b>5-min warm-up. Each round: 5 deadlifts → 5 goblet squats → 5 halos each way → 5 rows/side → 5 presses/side. Rest 90–120s. Then knee push-ups 3 sets and lateral raises.</div>
 <div><b style="color:#6d28d9">Kettlebell C (Thursdays)</b>5-min warm-up. Each round: 5 suitcase deadlifts/side → 5 reverse lunges/side → 5 halos each way → 5 paused rows/side → 30s suitcase march in place/side. Then push-ups and lateral raises.</div>
 <div><b style="color:#15803d">Long Walk (Sundays)</b>60 minutes. Use hills or trails if possible. Rest days = 10k steps only. No jump rope until Phase 2: Week 5 starts Tue Nov 3 (Day 29).</div></body></html>`;
 fs.writeFileSync('october-2026.html', html);
