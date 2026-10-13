@@ -8,7 +8,11 @@ Plan: 12-week program. Day 1 = Tue Oct 6, 2026. Daily minimum: 10,000 steps.
 |---|---|---|---|---|
 | Tue Oct 6 | 1 | Kettlebell + Rope | Long walk (extra), Complex A × 3, knee push-ups, lateral raises. Rope skipped. | 10,692 ✅ |
 | Wed Oct 7 | 2 | Rest | Short walk (~3k) + longer walk (~7k) | 11,700 ✅ |
-| Thu Oct 8 | 3 | Kettlebell C | Complex C × 2 (sore, reduced from 3), knee push-ups 3 × 8, lateral raises × 2 sets | TBD |
+| Thu Oct 8 | 3 | Kettlebell C | Complex C × 2 (sore, reduced from 3), knee push-ups 3 × 8, lateral raises × 2 sets | 11,700 ✅ |
+| Fri Oct 9 | 4 | Rest | Steps only | 10,000 ✅ |
+| Sat Oct 10 | 5 | Rest | Steps only | 9,100 ⚠️ |
+| Sun Oct 11 | 6 | Long walk (60 min) | Skipped (rained all day) — moved to Monday | 8,500 ⚠️ |
+| Mon Oct 12 | 7 | Rest | Long walk ~1.5 h (moved from Sunday) | 10,300 ✅ |
 
 ## Details
 
@@ -40,4 +44,23 @@ Plan: 12-week program. Day 1 = Tue Oct 6, 2026. Daily minimum: 10,000 steps.
   - Suitcase march: 20 lb
 - **Knee push-ups:** 3 × 8 (last set was a struggle at the end)
 - **Lateral raises:** 2 sets
-- **Steps:** TBD
+- **Steps:** ~11,700
+
+### Fri Oct 9 — Day 4 (Week 1, rest day)
+- **Steps:** ~10,000
+
+### Sat Oct 10 — Day 5 (Week 1, rest day)
+- **Steps:** ~9,100 (below 10k)
+
+### Sun Oct 11 — Day 6 (Week 1, long walk day)
+- **Long walk:** skipped, rained all day. Moved to Monday.
+- **Steps:** ~8,500 (below 10k)
+
+### Mon Oct 12 — Day 7 (Week 1, rest day)
+- **Long walk:** ~1.5 hours (moved from Sunday because of rain; planned 60 min)
+- **Steps:** ~10,300
+
+### Week 1 summary (Oct 6–12)
+- **Workouts:** 3 of 3 (Complex A, Complex C, long walk moved to Monday)
+- **10k step days:** 5 of 7 (missed Sat 9.1k, Sun 8.5k)
+- **Average steps:** ~10,300/day
