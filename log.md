@@ -13,6 +13,8 @@ Plan: 12-week program. Day 1 = Tue Oct 6, 2026. Daily minimum: 10,000 steps.
 | Sat Oct 10 | 5 | Rest | Steps only | 9,100 ⚠️ |
 | Sun Oct 11 | 6 | Long walk (60 min) | Skipped (rained all day) — moved to Monday | 8,500 ⚠️ |
 | Mon Oct 12 | 7 | Rest | Long walk ~1.5 h (moved from Sunday) | 10,300 ✅ |
+| Tue Oct 13 | 8 | Kettlebell A | Complex A × 3 (first with halos; rows/presses at 25 lb), knee push-ups 2 × 8, lateral raises × 2 | 8,500 ⚠️ |
+| Wed Oct 14 | 9 | Rest | Steps only | 10,400 ✅ |
 
 ## Details
 
@@ -64,3 +66,15 @@ Plan: 12-week program. Day 1 = Tue Oct 6, 2026. Daily minimum: 10,000 steps.
 - **Workouts:** 3 of 3 (Complex A, Complex C, long walk moved to Monday)
 - **10k step days:** 5 of 7 (missed Sat 9.1k, Sun 8.5k)
 - **Average steps:** ~10,300/day
+
+### Tue Oct 13 — Day 8 (Week 2)
+- **Complex A** (first session with halos)
+  - Round 1: deadlift 35 lb × 5, goblet squat 20 lb × 10, halo 20 lb × 5 each direction, bent-over row 25 lb × 10/side, overhead press 25 lb × 6/side
+  - Round 2: deadlift 35 lb × 5, goblet squat 20 lb × 6, halo 20 lb × 5 each direction, bent-over row 25 lb × 10/side, overhead press 25 lb × 6/side
+  - Round 3: deadlift 35 lb × 5, goblet squat 20 lb × 6, halo 20 lb × 5 each direction, bent-over row 25 lb × 7/side, overhead press 25 lb × 6/side
+- **Knee push-ups:** 2 × 8 (planned 3 sets)
+- **Lateral raises:** set 1: 5 lb × 12; set 2: 15 lb × 6, then 5 lb × 6 (drop set)
+- **Steps:** ~8,500 (below 10k)
+
+### Wed Oct 14 — Day 9 (Week 2, rest day)
+- **Steps:** ~10,400
